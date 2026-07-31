@@ -5,6 +5,8 @@
 # ==========================================
 #EXTINF:-1 group-title="Bangladeshi TV" tvg-logo="https://i.ibb.co.com/s90ZPC3B/1000102487.png",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi TV" tvg-logo="https://i.ibb.co.com/s90ZPC3B/1000102487.png",Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi TV" tvg-logo="https://i.ibb.co.com/s90ZPC3B/1000102487.png",BTV Sangsad
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi TV" tvg-logo="https://i.ibb.co.com/s90ZPC3B/1000102487.png",Channel 1

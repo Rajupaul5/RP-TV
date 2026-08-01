@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url=""
+
+=========================================
+# 🇧🇩 BANGLADESHI CHANNELS
+=========================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TW3yQD9/Picsart-23-06-07-11-27-32-538.png" group-title="BANGLADESHI CHANNELS",SOMOY TV
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
@@ -74,9 +78,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rR6nG7/Picsart-23-06-07-10-32-27-069.png" group-title="BANGLADESHI CHANNELS",EKUSHEY TV
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr1FsLp/Picsart-23-06-07-11-09-56-678.png" group-title="BANGLADESHI CHANNELS",MOVIE BANGLA
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" group-title="BANGLADESHI CHANNELS",Star News
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
@@ -104,9 +105,28 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HTfqC94Y/32111663-ico.png" group-title="BANGLADESHI CHANNELS",Deshi TV
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3SBkgWD/Picsart-23-06-19-21-41-04-729.png" group-title="SPORTS CHANNELS",GAZI TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="BANGLADESHI CHANNELS",Drama 24
 #EXTVLCOPT:http-user-agent=DevM3U-Player
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+http://vods2.aynascope.net/gseriesDrama/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/refs/heads/tv/NRB.png" group-title="BANGLADESHI CHANNELS",NRB TV
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://chsuk.tv/wp-content/uploads/2025/11/CHS-Side-Text.png" group-title="BANGLADESHI CHANNELS",Channel S UK
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png" group-title="BANGLADESHI CHANNELS",Channel Europe
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/srk-tv-bd.png" group-title="BANGLADESHI CHANNELS",SRKTV Bangla
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kmxMkrr/20250529_101852.png" group-title="BANGLADESHI CHANNELS",R TV
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
+
+=========================================
+# 🇮🇳 INDIAN CHANNELS
+=========================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YLmSMgN/Picsart-23-07-13-01-08-01-670.png" group-title="INDIAN CHANNELS",ZEE BANGLA
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 http://103.159.180.34:5001/live/625.m3u8
@@ -134,6 +154,37 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GyDcpFZ/Aaj-tak-logo.png" group-title="INDIAN CHANNELS",Aaj Tak Bangla
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png/revision/latest?" group-title="INDIAN CHANNELS",COLORS BANGLA HD
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+http://103.151.61.12/COLORS_BANHLA/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20210319122931" group-title="INDIAN CHANNELS",SUN BANGLA
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+http://103.151.61.12/SUN_BANGLA/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png" group-title="INDIAN CHANNELS",Star Jalsha HD
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/198.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png" group-title="INDIAN CHANNELS",ENT | Dangal TV
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png" group-title="INDIAN CHANNELS",ENT | DANGAL2
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png" group-title="INDIAN CHANNELS",SONY AATH HD
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+http://premiumtvs.space:80/live/PeH5kPWFfG/infamous7funny/4083.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png" group-title="INDIAN CHANNELS",Star Jalsha HD
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+http://filex.me:8080/live/3114654477/5787654467/522638.ts
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="INDIAN CHANNELS",Zee Bangla HD
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98881.ts
+
+=========================================
+# 🎬 MOVIES CHANNELS
+=========================================
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr1FsLp/Picsart-23-06-07-11-09-56-678.png" group-title="MOVIES CHANNELS",MOVIE BANGLA
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" group-title="MOVIES CHANNELS",JALSHA MOVIES HD
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
@@ -164,6 +215,44 @@ https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kxGm6mr/Picsart-23-06-28-01-42-01-892.png" group-title="MOVIES CHANNELS",MN MOVIES
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://mntv.livebox.co.in/mntvhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" group-title="MOVIES CHANNELS",Cineedge HD
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png" group-title="MOVIES CHANNELS",Uniques HD
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png" group-title="MOVIES CHANNELS",Superrix HD
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png" group-title="MOVIES CHANNELS",Screem
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg" group-title="MOVIES CHANNELS",B4U Kadak
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://cdn-2.pishow.tv/live/227/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8xzTtQY/k-Ug6WSk.jpg" group-title="MOVIES CHANNELS",ZB Cinema
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+
+=========================================
+# ⚽ SPORTS CHANNELS
+=========================================
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3SBkgWD/Picsart-23-06-19-21-41-04-729.png" group-title="SPORTS CHANNELS",GAZI TV HD
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="SPORTS CHANNELS",BeIN Sports Xtra
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png" group-title="SPORTS CHANNELS",BeIN Sports Español
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png" group-title="SPORTS CHANNELS",Unites Sports
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+http://103.151.61.12/STAR_SPORTS_SELECT2/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
+
+=========================================
+# 👶 KIDS CHANNELS
+=========================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMYwcmxf/Rongeen-TV-logo-with-slogan-2019.webp" group-title="KIDS CHANNELS",Rongeen TV
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
@@ -182,6 +271,25 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J4PNj3T/Picsart-26-07-14-12-28-44-839.png" group-title="KIDS CHANNELS",MR BEAN 24/7
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/F8gQjJS.png" group-title="KIDS CHANNELS",ZB Cartoon TV
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzkJZV7Z/Hridoy-TV-new-channel-(16).webp" group-title="KIDS CHANNELS",0. desney
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+http://119.156.228.231:9983/stream/channelid/1324398660?ticket=7C95F3E4488C36F06FC0D96EDED00B3813CA10A9&profile=pass
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-hindi.png" group-title="KIDS CHANNELS",Nicktoons
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/WowKidz_Logo.png" group-title="KIDS CHANNELS",0. WowKidz (Motu Patlu)
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/disneych.png" group-title="KIDS CHANNELS",DISNEY CHANNEL [IN]
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/19741.ts
+
+=========================================
+# 🎵 MUSIC CHANNELS
+=========================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hr1Pprs/Picsart-23-06-07-12-07-02-565.png" group-title="MUSIC CHANNELS",9XM
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/9xm.json
@@ -203,9 +311,38 @@ https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/balleballe.
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/V2BEATTV.png" group-title="MUSIC CHANNELS",V2BEAT
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Music_Bangla_new.jpeg" group-title="MUSIC CHANNELS",BANGLA MUSIC
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGN4JrZ3Ur3BHiD2tQhsQq3WQ5DXpv7HATFyNDT6o-rSNwAZaeQieMBdfPoGPio5UPipGV2ZBb8rLmyYJe5vySfQjEmTE5MLc_6q8CKfXuzb4eRQREjPiyL5tkncb1Xt5pVMJa6t77CT98JvAFozg95IH_9qofXJ2s1ubKCbJ-_JsuRVb458aBztLImQ/s1080/1000015295.png" group-title="MUSIC CHANNELS",Channel 16
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/dhoom-music-bangla.png" group-title="MUSIC CHANNELS",Dhoom Music
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+http://103.175.73.12:8080/live/378/378_0.m3u8
+
+=========================================
+# 🌍 INFOTAINMENT CHANNELS
+=========================================
 #EXTINF:-1 tvg-logo="http://i.ibb.co/j31HwYM/Picsart-23-06-28-20-15-00-522.png" group-title="INFOTAINMENT CHANNELS",ANIMAL PLANET HD
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/55zvH8Z/Picsart-23-06-09-19-57-34-590.png" group-title="INFOTAINMENT CHANNELS",DISCOVERY HD (BANGLA)
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="INFOTAINMENT CHANNELS",Discovery
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="INFOTAINMENT CHANNELS",Discovery Bangla
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+http://myxpanel.pro:80/live/Ander1/Ander1/694020.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png" group-title="INFOTAINMENT CHANNELS",National Geography HD
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+http://202.70.146.135:8000/play/a05o/index.m3u8
+
+=========================================
+# ☪️ RELIGION CHANNELS
+=========================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="RELIGION CHANNELS",PEACE TV
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
@@ -218,6 +355,10 @@ http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cpm5GKJZ/madanichannelbangla-1466448289-05.jpg" group-title="RELIGION CHANNELS",MADANI BANGLA
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/0.m3u8
+
+=========================================
+# 🌐 INTERNATIONAL CHANNELS
+=========================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6Rz0XFtV/Al-Jazeera.png" group-title="INTERNATIONAL CHANNELS",AL JAZEERA
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
@@ -227,123 +368,22 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pmK73sf/CNA-new-logo-svg-1.png" group-title="INTERNATIONAL CHANNELS",CNA
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="BANGLADESHI CHANNELS",Drama 24
+#EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL CHANNELS",DW English _
 #EXTVLCOPT:http-user-agent=DevM3U-Player
-http://vods2.aynascope.net/gseriesDrama/index.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp" group-title="INTERNATIONAL CHANNELS",CNN
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+=========================================
+# 📺 24/7 LIVE CHANNELS
+=========================================
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="24/7 Live",Drama 24
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 http://vods2.aynascope.net/gseriesDrama/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/refs/heads/tv/NRB.png" group-title="BANGLADESHI CHANNELS",NRB TV
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/F8gQjJS.png" group-title="KIDS CHANNELS",ZB Cartoon TV
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png" group-title="INDIAN CHANNELS",Star Jalsha HD
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/198.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png" group-title="INDIAN CHANNELS",ENT | Dangal TV
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png" group-title="INDIAN CHANNELS",ENT | DANGAL2
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="SPORTS CHANNELS",BeIN Sports Xtra
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png" group-title="SPORTS CHANNELS",BeIN Sports Español
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzkJZV7Z/Hridoy-TV-new-channel-(16).webp" group-title="KIDS CHANNELS",0. desney
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-http://119.156.228.231:9983/stream/channelid/1324398660?ticket=7C95F3E4488C36F06FC0D96EDED00B3813CA10A9&profile=pass
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Music_Bangla_new.jpeg" group-title="MUSIC CHANNELS",BANGLA MUSIC
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGN4JrZ3Ur3BHiD2tQhsQq3WQ5DXpv7HATFyNDT6o-rSNwAZaeQieMBdfPoGPio5UPipGV2ZBb8rLmyYJe5vySfQjEmTE5MLc_6q8CKfXuzb4eRQREjPiyL5tkncb1Xt5pVMJa6t77CT98JvAFozg95IH_9qofXJ2s1ubKCbJ-_JsuRVb458aBztLImQ/s1080/1000015295.png" group-title="MUSIC CHANNELS",Channel 16
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/dhoom-music-bangla.png" group-title="MUSIC CHANNELS",Dhoom Music
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-http://103.175.73.12:8080/live/378/378_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/55zvH8Z/Picsart-23-06-09-19-57-34-590.png" group-title="INFOTAINMENT CHANNELS",DISCOVERY HD (BANGLA)
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_hd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png/revision/latest?" group-title="INDIAN CHANNELS",COLORS BANGLA HD
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-http://103.151.61.12/COLORS_BANHLA/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20210319122931" group-title="INDIAN CHANNELS",SUN BANGLA
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-http://103.151.61.12/SUN_BANGLA/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
-#EXTINF:-1 tvg-logo="https://chsuk.tv/wp-content/uploads/2025/11/CHS-Side-Text.png" group-title="BANGLADESHI CHANNELS",Channel S UK
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png" group-title="BANGLADESHI CHANNELS",Channel Europe
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png" group-title="SPORTS CHANNELS",Unites Sports
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-http://103.151.61.12/STAR_SPORTS_SELECT2/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-hindi.png" group-title="KIDS CHANNELS",Nicktoons
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/WowKidz_Logo.png" group-title="KIDS CHANNELS",0. WowKidz (Motu Patlu)
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/srk-tv-bd.png" group-title="BANGLADESHI CHANNELS",SRKTV Bangla
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" group-title="English Movies",Cineedge HD
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png" group-title="English Movies",Uniques HD
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png" group-title="English Movies",Superrix HD
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png" group-title="English Movies",Screem
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL",DW English _
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7 Live",South Movies
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7 Live",Hindi Movies
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kmxMkrr/20250529_101852.png" group-title="BANGLADESHI CHANNELS",R TV
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png" group-title="INDIAN CHANNELS",SONY AATH HD
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-http://premiumtvs.space:80/live/PeH5kPWFfG/infamous7funny/4083.ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/disneych.png" group-title="KIDS",DISNEY CHANNEL [IN]
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/19741.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png" group-title="INDIAN CHANNELS",Star Jalsha HD
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-http://filex.me:8080/live/3114654477/5787654467/522638.ts
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="INDIAN BANGLA",Zee Bangla HD
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98881.ts
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="INFOTAINMENT CHANNELS",Discovery
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-http://202.70.146.135:8000/play/a05z/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="INFOTAINMENT CHANNELS",Discovery Bangla
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-http://myxpanel.pro:80/live/Ander1/Ander1/694020.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png" group-title="INFOTAINMENT CHANNELS",National Geography HD
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-http://202.70.146.135:8000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp" group-title="NEWS INTERNASIONAL",CNN
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg" group-title="MOVIES CHANNELS",B4U Kadak
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://cdn-2.pishow.tv/live/227/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8xzTtQY/k-Ug6WSk.jpg" group-title="MOVIES CHANNELS",ZB Cinema
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://server.zillarbarta.com/ZBCINEMA/index.m3u8

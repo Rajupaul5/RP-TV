@@ -56,9 +56,6 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://rajdhanitv.online/assets/images/logo/1757970614logo%20footer.png" group-title="BANGLADESHI CHANNELS",RAJDHANI TV
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="BANGLADESHI CHANNELS",EKHON TV
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" group-title="BANGLADESHI CHANNELS",Star News
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
